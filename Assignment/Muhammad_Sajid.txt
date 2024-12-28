@@ -1,0 +1,5 @@
+Linear Regression R-squared: 0.35944514633198166
+Decision Tree Regression R-squared: 0.9486994843352543
+Polynomial Regression R-squared: 0.46280305287252044
+
+The Decision Tree Regression model is more sufficient due to high R square value
